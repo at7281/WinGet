@@ -14,3 +14,5 @@ else{
 	Write-Host Winget Installed
     $ResultText.text = "`r`n" +"`r`n" + "Winget installed successfully"
 }
+
+pause
