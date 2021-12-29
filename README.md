@@ -1,3 +1,3 @@
 # Install WinGet from PowerShell
 
-iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jyizc'))
+`iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/Jyizc'))`
